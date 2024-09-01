@@ -1,3 +1,5 @@
+# made by zentonik
+
 from PIL import Image, ImageDraw
 import matplotlib.pyplot as plt
 import requests
